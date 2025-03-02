@@ -1,0 +1,10 @@
+ # dataset path
+train: F:/16521/Voly_vision_yolov11/ultralytics-main/ultralytics/Voly_data_extra/images/train
+val: F:/16521/Voly_vision_yolov11/ultralytics-main/ultralytics/Voly_data_extra/images/val
+ 
+# number of classes
+nc: 1
+ 
+# class names
+names: ['vollyball']
+ 
